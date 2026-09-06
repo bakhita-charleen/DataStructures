@@ -11,7 +11,7 @@ shopping_list = ['Bread', 'Milk', 'Sugar', 'Rice']
 # -ve indexing      -4      -3      -2        -1
 
 print(shopping_list[0]) #first item
-print(shopping_list[2]) #thirs item
+print(shopping_list[2]) #third item
 print(shopping_list[-1]) # last item - negative counts from the end
 print(shopping_list[-2]) #second to last
 print()
@@ -130,7 +130,7 @@ numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90]
 #indexes    0   1   2   3   4   5   6   7   8
 #indexes    -9  -8  -7  -6  -5  -4  -3  -2  -1
 
-#numbers [start: stop- stope before the specified index]
+#numbers [start: stop- stop before the specified index]
 
 print(numbers[1:4]) # prints items from index 1 to 3 - position 1 upto but not including position 4
 print()
